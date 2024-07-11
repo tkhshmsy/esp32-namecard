@@ -1,0 +1,9 @@
+{
+	"cards": [
+		{
+			"logo": "/namecard/file.png",
+			"name": "Name",
+			"url": "https://google.com"
+		}
+	]
+}
